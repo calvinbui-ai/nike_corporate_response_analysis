@@ -1,0 +1,30 @@
+climate:
+  - \bnet\s*zero\b
+  - \bscope\s*1\b
+  - \bscope\s*2\b
+  - \bscope\s*3\b
+  - \bSBTi\b
+  - \bTCFD\b
+  - \bGHG Protocol\b
+
+water:
+  - \bPFAS\b
+  - \bwastewater\b
+  - \beffluent\b
+  - \bWASH\b
+  - \bzero[-\s]?liquid[-\s]?discharge\b
+
+waste:
+  - \bEPR\b
+  - \bPPWR\b
+  - \btextile EPR\b
+  - \brecyclab\w*\b
+  - \bpost[-\s]?consumer\b
+  - \bPCR\b
+
+product:
+  - \bLCA\b
+  - \beco[-\s]?design\b
+  - \brepairab\w*\b
+  - \btraceab\w*\b
+  - \bdigital product passport\b
