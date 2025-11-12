@@ -1,0 +1,18 @@
+category,keyword,from_year,to_year,previous_strength,current_strength,change_type
+social,living wage,2021,2022,moderate,strong,strengthened
+circular,recycled material,2021,2022,moderate,strong,strengthened
+circular,recycled material,2022,2023,strong,moderate,weakened
+climate,climate target,2020,2023,strong,moderate,weakened
+transparency,traceability,2022,2023,moderate,strong,strengthened
+water,water footprint,2020,2021,moderate,strong,strengthened
+water,water footprint,2021,2022,strong,moderate,weakened
+water,water reduction,2020,2021,strong,moderate,weakened
+water,water reduction,2021,2022,moderate,strong,strengthened
+water,water reduction,2022,2023,strong,moderate,weakened
+water,water stewardship,2020,2021,strong,moderate,weakened
+chemicals,restricted substances,2020,2021,moderate,strong,strengthened
+chemicals,restricted substances,2021,2023,strong,moderate,weakened
+product,sustainable product,2020,2022,moderate,strong,strengthened
+product,sustainable product,2022,2023,strong,moderate,weakened
+product,sustainable product,2023,2024,moderate,strong,strengthened
+product,sustainable innovation,2020,2022,moderate,strong,strengthened

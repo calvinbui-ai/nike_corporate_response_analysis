@@ -1,0 +1,986 @@
+{
+  "climate_action": [
+    {
+      "year": 2020,
+      "document": "Nike_2020_Annual_Report.pdf",
+      "terms": {
+        "climate change": 3
+      }
+    },
+    {
+      "year": 2020,
+      "document": "Nike_2020_Impact_Report.pdf",
+      "terms": {
+        "climate change": 18,
+        "climate action": 7,
+        "climate crisis": 2,
+        "global warming": 2
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Annual_Report.pdf",
+      "terms": {
+        "climate change": 16
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Impact_Report.pdf",
+      "terms": {
+        "climate change": 17,
+        "climate action": 4,
+        "global warming": 2
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Annual_Report.pdf",
+      "terms": {
+        "climate change": 18
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Impact_Report.pdf",
+      "terms": {
+        "climate change": 5,
+        "climate action": 4
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Annual_Report.pdf",
+      "terms": {
+        "climate change": 9
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Impact_Report.pdf",
+      "terms": {
+        "climate change": 17,
+        "climate action": 3,
+        "global warming": 2
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Annual_Report.pdf",
+      "terms": {
+        "climate change": 10
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Sustainability_Data.pdf",
+      "terms": {
+        "climate change": 3,
+        "global warming": 1
+      }
+    }
+  ],
+  "carbon_terminology": [
+    {
+      "year": 2020,
+      "document": "Nike_2020_Annual_Report.pdf",
+      "terms": {}
+    },
+    {
+      "year": 2020,
+      "document": "Nike_2020_Impact_Report.pdf",
+      "terms": {
+        "net zero": 1,
+        "carbon footprint": 17,
+        "carbon emissions": 21
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Annual_Report.pdf",
+      "terms": {}
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Impact_Report.pdf",
+      "terms": {
+        "net zero": 10,
+        "carbon footprint": 6,
+        "decarbonization": 1,
+        "carbon emissions": 9
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Annual_Report.pdf",
+      "terms": {}
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Impact_Report.pdf",
+      "terms": {
+        "carbon footprint": 6,
+        "decarbonization": 7,
+        "carbon emissions": 6
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Annual_Report.pdf",
+      "terms": {}
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Impact_Report.pdf",
+      "terms": {
+        "net zero": 1,
+        "carbon footprint": 8,
+        "decarbonization": 10,
+        "carbon emissions": 1
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Annual_Report.pdf",
+      "terms": {}
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Sustainability_Data.pdf",
+      "terms": {
+        "net zero": 1,
+        "carbon neutral": 1,
+        "carbon footprint": 3
+      }
+    }
+  ],
+  "circular_economy": [
+    {
+      "year": 2020,
+      "document": "Nike_2020_Annual_Report.pdf",
+      "terms": {}
+    },
+    {
+      "year": 2020,
+      "document": "Nike_2020_Impact_Report.pdf",
+      "terms": {
+        "circular economy": 4,
+        "circular design": 2,
+        "recycling": 31,
+        "recycled materials": 5,
+        "Nike Grind": 17,
+        "circularity": 6
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Annual_Report.pdf",
+      "terms": {
+        "recycled materials": 2
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Impact_Report.pdf",
+      "terms": {
+        "circular economy": 1,
+        "circular design": 1,
+        "recycling": 51,
+        "recycled materials": 3,
+        "Nike Grind": 22,
+        "circularity": 10
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Annual_Report.pdf",
+      "terms": {}
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Impact_Report.pdf",
+      "terms": {
+        "circular economy": 2,
+        "recycling": 57,
+        "Nike Grind": 12,
+        "circularity": 8
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Annual_Report.pdf",
+      "terms": {}
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Impact_Report.pdf",
+      "terms": {
+        "circular economy": 3,
+        "circular design": 1,
+        "recycling": 44,
+        "recycled materials": 4,
+        "Nike Grind": 7,
+        "circularity": 2
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Annual_Report.pdf",
+      "terms": {}
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Sustainability_Data.pdf",
+      "terms": {
+        "recycling": 8
+      }
+    }
+  ],
+  "sustainability_framing": [
+    {
+      "year": 2020,
+      "document": "Nike_2020_Annual_Report.pdf",
+      "terms": {
+        "sustainability": 58,
+        "sustainable": 10,
+        "responsible": 17,
+        "ethical": 2
+      }
+    },
+    {
+      "year": 2020,
+      "document": "Nike_2020_Impact_Report.pdf",
+      "terms": {
+        "sustainability": 68,
+        "sustainable development": 2,
+        "sustainable": 108,
+        "responsible": 24,
+        "ethical": 5,
+        "Move to Zero": 3
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Annual_Report.pdf",
+      "terms": {
+        "sustainability": 113,
+        "sustainable development": 4,
+        "sustainable": 30,
+        "responsible": 54,
+        "ethical": 10,
+        "Move to Zero": 3
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Impact_Report.pdf",
+      "terms": {
+        "sustainability": 57,
+        "sustainable development": 1,
+        "sustainable": 35,
+        "responsible": 16,
+        "ethical": 6,
+        "Move to Zero": 4
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Annual_Report.pdf",
+      "terms": {
+        "sustainability": 183,
+        "sustainable": 36,
+        "responsible": 64,
+        "ethical": 16
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Impact_Report.pdf",
+      "terms": {
+        "sustainability": 29,
+        "sustainable": 23,
+        "responsible": 29,
+        "ethical": 5,
+        "Move to Zero": 1
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Annual_Report.pdf",
+      "terms": {
+        "sustainability": 11,
+        "sustainable": 2,
+        "responsible": 5
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Impact_Report.pdf",
+      "terms": {
+        "sustainability": 57,
+        "sustainable development": 2,
+        "sustainable": 45,
+        "responsible": 26,
+        "ethical": 7
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Annual_Report.pdf",
+      "terms": {
+        "sustainability": 12,
+        "sustainable": 3,
+        "responsible": 6
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Sustainability_Data.pdf",
+      "terms": {
+        "sustainability": 106,
+        "sustainable": 16,
+        "responsible": 8,
+        "ethical": 2
+      }
+    }
+  ],
+  "compliance_language": [
+    {
+      "year": 2020,
+      "document": "Nike_2020_Annual_Report.pdf",
+      "terms": {
+        "compliance": 47,
+        "regulatory": 18,
+        "requirement": 2,
+        "regulation": 32,
+        "legislation": 3,
+        "law": 43
+      }
+    },
+    {
+      "year": 2020,
+      "document": "Nike_2020_Impact_Report.pdf",
+      "terms": {
+        "compliance": 59,
+        "regulatory": 2,
+        "mandatory": 1,
+        "requirement": 3
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Annual_Report.pdf",
+      "terms": {
+        "compliance": 114,
+        "regulatory": 70,
+        "mandatory": 8,
+        "requirement": 2,
+        "regulation": 72,
+        "legislation": 8,
+        "law": 71
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Impact_Report.pdf",
+      "terms": {
+        "compliance": 39,
+        "regulatory": 4,
+        "regulation": 1,
+        "legislation": 1
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Annual_Report.pdf",
+      "terms": {
+        "compliance": 110,
+        "regulatory": 48,
+        "requirement": 4,
+        "regulation": 49,
+        "legislation": 4,
+        "law": 76
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Impact_Report.pdf",
+      "terms": {
+        "compliance": 27,
+        "regulatory": 5,
+        "legislation": 1
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Annual_Report.pdf",
+      "terms": {
+        "compliance": 22,
+        "regulatory": 18,
+        "regulation": 16,
+        "legislation": 2,
+        "law": 16
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Impact_Report.pdf",
+      "terms": {
+        "compliance": 34,
+        "regulatory": 5,
+        "mandatory": 2,
+        "requirement": 1,
+        "legislation": 3,
+        "law": 1
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Annual_Report.pdf",
+      "terms": {
+        "compliance": 23,
+        "regulatory": 19,
+        "mandatory": 1,
+        "regulation": 18,
+        "legislation": 4,
+        "law": 18
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Sustainability_Data.pdf",
+      "terms": {
+        "compliance": 18,
+        "regulatory": 3,
+        "mandatory": 1
+      }
+    }
+  ],
+  "voluntary_leadership": [
+    {
+      "year": 2020,
+      "document": "Nike_2020_Annual_Report.pdf",
+      "terms": {
+        "leadership": 72,
+        "leading": 6,
+        "innovation": 25
+      }
+    },
+    {
+      "year": 2020,
+      "document": "Nike_2020_Impact_Report.pdf",
+      "terms": {
+        "leadership": 67,
+        "leading": 20,
+        "innovation": 41,
+        "ambitious": 3,
+        "bold": 1
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Annual_Report.pdf",
+      "terms": {
+        "leadership": 153,
+        "leading": 19,
+        "innovation": 125,
+        "ambitious": 4
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Impact_Report.pdf",
+      "terms": {
+        "leadership": 74,
+        "leading": 12,
+        "innovation": 35,
+        "ambitious": 6,
+        "bold": 1,
+        "transformative": 1
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Annual_Report.pdf",
+      "terms": {
+        "leadership": 119,
+        "leading": 13,
+        "innovation": 49,
+        "ambitious": 4
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Impact_Report.pdf",
+      "terms": {
+        "leadership": 89,
+        "pioneering": 1,
+        "leading": 16,
+        "innovation": 32,
+        "ambitious": 4,
+        "transformative": 3
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Annual_Report.pdf",
+      "terms": {
+        "leadership": 4,
+        "leading": 4,
+        "innovation": 16
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Impact_Report.pdf",
+      "terms": {
+        "leadership": 92,
+        "pioneering": 1,
+        "leading": 25,
+        "innovation": 47,
+        "ambitious": 14,
+        "bold": 2,
+        "transformative": 3
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Annual_Report.pdf",
+      "terms": {
+        "leadership": 3,
+        "leading": 4,
+        "innovation": 18
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Sustainability_Data.pdf",
+      "terms": {
+        "leadership": 31,
+        "leading": 5,
+        "innovation": 11
+      }
+    }
+  ],
+  "science_based": [
+    {
+      "year": 2020,
+      "document": "Nike_2020_Annual_Report.pdf",
+      "terms": {}
+    },
+    {
+      "year": 2020,
+      "document": "Nike_2020_Impact_Report.pdf",
+      "terms": {
+        "science-based": 4,
+        "scientific": 2,
+        "1.5\u00b0C": 1,
+        "IPCC": 4
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Annual_Report.pdf",
+      "terms": {}
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Impact_Report.pdf",
+      "terms": {
+        "science-based": 10,
+        "scientific": 2,
+        "1.5\u00b0C": 1,
+        "IPCC": 3
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Annual_Report.pdf",
+      "terms": {}
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Impact_Report.pdf",
+      "terms": {
+        "science-based": 5,
+        "evidence-based": 1,
+        "scientific": 1,
+        "paris agreement": 1
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Annual_Report.pdf",
+      "terms": {}
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Impact_Report.pdf",
+      "terms": {
+        "science-based": 5,
+        "evidence-based": 3,
+        "scientific": 6,
+        "1.5\u00b0C": 1,
+        "IPCC": 3
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Annual_Report.pdf",
+      "terms": {}
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Sustainability_Data.pdf",
+      "terms": {
+        "science-based": 3,
+        "scientific": 3,
+        "IPCC": 10
+      }
+    }
+  ],
+  "stakeholder_engagement": [
+    {
+      "year": 2020,
+      "document": "Nike_2020_Annual_Report.pdf",
+      "terms": {
+        "collaboration": 2,
+        "partnership": 2,
+        "engagement": 33,
+        "consultation": 3,
+        "transparency": 7
+      }
+    },
+    {
+      "year": 2020,
+      "document": "Nike_2020_Impact_Report.pdf",
+      "terms": {
+        "stakeholder": 8,
+        "collaboration": 23,
+        "partnership": 3,
+        "engagement": 74,
+        "consultation": 2,
+        "transparency": 10
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Annual_Report.pdf",
+      "terms": {
+        "collaboration": 10,
+        "partnership": 26,
+        "engagement": 78,
+        "consultation": 6,
+        "dialogue": 4,
+        "transparency": 24
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Impact_Report.pdf",
+      "terms": {
+        "stakeholder": 7,
+        "collaboration": 10,
+        "partnership": 7,
+        "engagement": 70,
+        "consultation": 3,
+        "dialogue": 2,
+        "transparency": 11
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Annual_Report.pdf",
+      "terms": {
+        "stakeholder": 2,
+        "collaboration": 12,
+        "partnership": 8,
+        "engagement": 74,
+        "consultation": 8,
+        "dialogue": 4,
+        "transparency": 16
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Impact_Report.pdf",
+      "terms": {
+        "stakeholder": 2,
+        "collaboration": 17,
+        "partnership": 20,
+        "engagement": 64,
+        "consultation": 2,
+        "dialogue": 2,
+        "transparency": 11
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Annual_Report.pdf",
+      "terms": {
+        "stakeholder": 1,
+        "collaboration": 1,
+        "partnership": 3,
+        "engagement": 7,
+        "consultation": 2,
+        "transparency": 3
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Impact_Report.pdf",
+      "terms": {
+        "stakeholder": 5,
+        "collaboration": 12,
+        "partnership": 30,
+        "engagement": 63,
+        "consultation": 3,
+        "dialogue": 1,
+        "transparency": 9
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Annual_Report.pdf",
+      "terms": {
+        "stakeholder": 2,
+        "collaboration": 1,
+        "engagement": 8,
+        "consultation": 2,
+        "transparency": 2
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Sustainability_Data.pdf",
+      "terms": {
+        "stakeholder": 1,
+        "collaboration": 3,
+        "engagement": 8,
+        "consultation": 1
+      }
+    }
+  ],
+  "supply_chain": [
+    {
+      "year": 2020,
+      "document": "Nike_2020_Annual_Report.pdf",
+      "terms": {
+        "supply chain": 12,
+        "supplier": 2
+      }
+    },
+    {
+      "year": 2020,
+      "document": "Nike_2020_Impact_Report.pdf",
+      "terms": {
+        "supply chain": 104,
+        "supplier": 61,
+        "value chain": 30,
+        "upstream": 8,
+        "downstream": 6,
+        "tier 1": 15,
+        "tier 2": 5
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Annual_Report.pdf",
+      "terms": {
+        "supply chain": 91,
+        "supplier": 38,
+        "value chain": 3,
+        "downstream": 4,
+        "tier 1": 2,
+        "traceability": 4
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Impact_Report.pdf",
+      "terms": {
+        "supply chain": 65,
+        "supplier": 69,
+        "value chain": 17,
+        "upstream": 9,
+        "downstream": 8,
+        "tier 1": 23,
+        "tier 2": 15,
+        "traceability": 1
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Annual_Report.pdf",
+      "terms": {
+        "supply chain": 84,
+        "supplier": 68,
+        "tier 1": 4,
+        "tier 2": 6,
+        "traceability": 12
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Impact_Report.pdf",
+      "terms": {
+        "supply chain": 63,
+        "supplier": 62,
+        "value chain": 8,
+        "tier 1": 12,
+        "tier 2": 13
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Annual_Report.pdf",
+      "terms": {
+        "supply chain": 13,
+        "supplier": 6,
+        "tier 2": 2
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Impact_Report.pdf",
+      "terms": {
+        "supply chain": 79,
+        "supplier": 99,
+        "value chain": 26,
+        "upstream": 6,
+        "downstream": 3,
+        "tier 1": 37,
+        "tier 2": 32,
+        "traceability": 1
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Annual_Report.pdf",
+      "terms": {
+        "supply chain": 11,
+        "supplier": 8,
+        "tier 2": 2
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Sustainability_Data.pdf",
+      "terms": {
+        "supply chain": 20,
+        "supplier": 23,
+        "value chain": 14,
+        "upstream": 7,
+        "downstream": 5,
+        "tier 1": 28,
+        "tier 2": 17
+      }
+    }
+  ],
+  "social_justice": [
+    {
+      "year": 2020,
+      "document": "Nike_2020_Annual_Report.pdf",
+      "terms": {
+        "human rights": 4,
+        "diversity": 47,
+        "inclusion": 14,
+        "equity": 68
+      }
+    },
+    {
+      "year": 2020,
+      "document": "Nike_2020_Impact_Report.pdf",
+      "terms": {
+        "human rights": 16,
+        "diversity": 65,
+        "inclusion": 53,
+        "equity": 34
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Annual_Report.pdf",
+      "terms": {
+        "human rights": 60,
+        "diversity": 162,
+        "inclusion": 78,
+        "equity": 234
+      }
+    },
+    {
+      "year": 2021,
+      "document": "Nike_2021_Impact_Report.pdf",
+      "terms": {
+        "living wage": 5,
+        "fair wage": 1,
+        "human rights": 8,
+        "diversity": 42,
+        "inclusion": 39,
+        "equity": 40
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Annual_Report.pdf",
+      "terms": {
+        "human rights": 42,
+        "diversity": 106,
+        "inclusion": 46,
+        "equity": 178
+      }
+    },
+    {
+      "year": 2022,
+      "document": "Nike_2022_Impact_Report.pdf",
+      "terms": {
+        "living wage": 5,
+        "fair wage": 1,
+        "human rights": 3,
+        "diversity": 40,
+        "inclusion": 39,
+        "equity": 47
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Annual_Report.pdf",
+      "terms": {
+        "human rights": 1,
+        "diversity": 8,
+        "inclusion": 3,
+        "equity": 24
+      }
+    },
+    {
+      "year": 2023,
+      "document": "Nike_2023_Impact_Report.pdf",
+      "terms": {
+        "human rights": 6,
+        "diversity": 49,
+        "inclusion": 65,
+        "equity": 48
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Annual_Report.pdf",
+      "terms": {
+        "human rights": 1,
+        "diversity": 8,
+        "inclusion": 3,
+        "equity": 23
+      }
+    },
+    {
+      "year": 2024,
+      "document": "Nike_2024_Sustainability_Data.pdf",
+      "terms": {
+        "human rights": 8,
+        "diversity": 2,
+        "inclusion": 3,
+        "equity": 6
+      }
+    }
+  ]
+}

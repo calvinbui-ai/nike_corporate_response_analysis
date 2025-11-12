@@ -1,0 +1,20 @@
+# Nike Corporate Response Analysis - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# PDF Processing
+PyPDF2==3.0.1
+
+# Data Analysis
+pandas==2.1.4
+numpy==1.26.2
+openpyxl==3.1.2
+
+# Natural Language Processing
+nltk==3.8.1
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Utilities
+python-dateutil==2.8.2
